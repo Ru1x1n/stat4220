@@ -1,0 +1,68 @@
+---
+title: >
+  `\vspace{-48pt}`{=latex}**Meeting minutes**
+fontsize: 12pt
+geometry: margin=1in
+linkcolor: black
+urlcolor: black
+output: 
+  pdf_document
+header-includes:
+- \usepackage{setspace}
+- \onehalfspacing
+- \usepackage[nottoc]{tocbibind}
+- \setlength{\parskip}{12pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, highlight=FALSE, message=FALSE, warning=FALSE)
+```
+
+\vspace{-36pt}
+
+$\hrulefill$
+
+# Team meeting on (Feb 5), 2026
+
+## Location: (Location - Monroe)
+
+## Attendees: (Ruixin, Alex, Saumya )
+
+## Agenda:
+
+1.  Finalizing Expectation document.
+
+2.  Deciding ways of sharing documents.
+
+3.  Deciciding ways of contact.
+
+4.  Distributing responsibilities.
+
+## Discussion summaries:
+
+1.  More details to be found in the document.
+2.  We agreed to use a document with links to files
+3.  We made group chat.
+    1.  For now: Freya:coordinator, Ruixin: recorder. Yuhan:facilitator. Alex: organizer. Samuya: questioner.
+
+## Key decisions (if not already included in discussion summaries):
+
+-   (Key decision - to be changed by team)
+-   (Key decision - to be changed by team)
+-   (Adjust number as needed by team)
+
+## Action items (if not already included in discussion summaries):
+
+-   Every group member should explore whether the current ways of contacting and sharing documents comfortable.
+-   Each group member should try their best gathering data we need for the project.
+-   Group roles will rotate down one position each project cycle.
+
+## Annotations (if including):
+
+-   (Annotation - to be changed by team)
+-   (Annotation - to be changed by team)
+-   (Adjust number as needed by team)
+
+$\hrulefill$
+
+# 
