@@ -1,0 +1,57 @@
+---
+title: >
+  `\vspace{-48pt}`{=latex}**Meeting minutes**
+fontsize: 12pt
+geometry: margin=1in
+linkcolor: black
+urlcolor: black
+output: 
+  pdf_document
+header-includes:
+- \usepackage{setspace}
+- \onehalfspacing
+- \usepackage[nottoc]{tocbibind}
+- \setlength{\parskip}{12pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, highlight=FALSE, message=FALSE, warning=FALSE)
+```
+
+\vspace{-36pt}
+
+$\hrulefill$
+
+# Team meeting on(FEB 23)
+
+## Location: Zoom
+
+## Attendees: All the group members.
+
+## Agenda:
+
+1.  Selection of the variables we would to keep for the project, filter the duplicated or unnecessary.
+
+2.  Among the variables left, decide which one to combine or merge.
+
+3.  Split the responsibilities for the data section.
+
+## Discussion summaries:
+
+1.  We went over the data set for the first time to decide what variables are important and should keep.
+2.  We then went over the data set one more time to see what columns are considerable of keeping.
+3.  We have five people to split up 4 sections, so we figured out the best way to split those.
+
+## Key decisions (if not already included in discussion summaries):
+
+-   Variables like population health insurance coverage homeowner and others were abandoned.
+-   We consider columns like SNAP rate, Median income Federal spending on students to be considerable since we already have similar variables.
+-   Samuya and Ruixin work on data collection and sources. Alexander works on preparation. Freya works on, Yuhan works on limitations.
+
+## Action items (if not already included in discussion summaries):
+
+-   (Action item - to be changed by team)
+-   (Action item - to be changed by team)
+-   (Adjust number as needed by team)
+
+# 

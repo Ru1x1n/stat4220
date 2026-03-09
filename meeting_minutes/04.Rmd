@@ -1,0 +1,94 @@
+---
+title: >
+  `\vspace{-48pt}`{=latex}**Meeting minutes**
+fontsize: 12pt
+geometry: margin=1in
+linkcolor: black
+urlcolor: black
+output: 
+  pdf_document
+header-includes:
+- \usepackage{setspace}
+- \onehalfspacing
+- \usepackage[nottoc]{tocbibind}
+- \setlength{\parskip}{12pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, highlight=FALSE, message=FALSE, warning=FALSE)
+```
+
+\vspace{-36pt}
+$\hrulefill$
+
+
+# Team meeting on (Feb 26 ), 2025
+
+## Location: (Monroe Hall)
+
+## Attendees: ()
+
+## Agenda:
+1.  (Agenda item - to be changed by team)
+2.  (Agenda item - to be changed by team)
+3.  (Agenda item - to be changed by team)
+4.  (Adjust number as needed by team)
+
+## Discussion summaries:
+1.  (Discussion summary of agenda item 1 - to be changed by team)
+2.  (Discussion summary of agenda item 2 - to be changed by team)
+3.  (Discussion summary of agenda item 3 - to be changed by team)
+4.  (Adjust number as needed by team)
+
+## Key decisions (if not already included in discussion summaries):
+-  (Key decision - to be changed by team)
+-  (Key decision - to be changed by team)
+-  (Adjust number as needed by team)
+
+## Action items (if not already included in discussion summaries):
+-  (Action item - to be changed by team)
+-  (Action item - to be changed by team)
+-  (Adjust number as needed by team)
+
+## Annotations (if including):
+-  (Annotation - to be changed by team)
+-  (Annotation - to be changed by team)
+-  (Adjust number as needed by team)
+
+
+$\hrulefill$
+
+
+# Team meeting on (Month XX), 2025
+
+## Location: (Location - to be changed by team)
+
+## Attendees: (Name, name, name, etc. - to be changed by team)
+
+## Agenda:
+1.  (Agenda item - to be changed by team)
+2.  (Agenda item - to be changed by team)
+3.  (Agenda item - to be changed by team)
+4.  (Adjust number as needed by team)
+
+## Discussion summaries:
+1.  (Discussion summary of agenda item 1 - to be changed by team)
+2.  (Discussion summary of agenda item 2 - to be changed by team)
+3.  (Discussion summary of agenda item 3 - to be changed by team)
+4.  (Adjust number as needed by team)
+
+## Key decisions (if not already included in discussion summaries):
+-  (Key decision - to be changed by team)
+-  (Key decision - to be changed by team)
+-  (Adjust number as needed by team)
+
+## Action items (if not already included in discussion summaries):
+-  (Action item - to be changed by team)
+-  (Action item - to be changed by team)
+-  (Adjust number as needed by team)
+
+## Annotations (if including):
+-  (Annotation - to be changed by team)
+-  (Annotation - to be changed by team)
+-  (Adjust number as needed by team)
+

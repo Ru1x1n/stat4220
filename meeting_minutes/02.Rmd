@@ -19,39 +19,39 @@ knitr::opts_chunk$set(echo = FALSE, highlight=FALSE, message=FALSE, warning=FALS
 ```
 
 \vspace{-36pt}
-
 $\hrulefill$
 
-# Team meeting on(FEB 23)
 
-## Location: Zoom
+# Team meeting on (Feb 06), 2026
 
-## Attendees: All the group members.
+## Location: (Zoom)
+
+## Attendees: (All)
 
 ## Agenda:
+1. Introduce two new members into the team
+2. Dividing responsibilities for the first project feedback.
 
-1.  Selection of the variables we would to keep for the project, filter the duplicated or unnecessary.
-
-2.  Among the variables left, decide which one to combine or merge.
-
-3.  Split the responsibilities for the data section.
+  
 
 ## Discussion summaries:
+1.  The whole group read through the instructions and divided the responsibilities.
+2.  Getting familiar with each other and exchange contacts.
 
-1.  We went over the data set for the first time to decide what variables are important and should keep.
-2.  We then went over the data set one more time to see what columns are considerable of keeping.
-3.  We have five people to split up 4 sections, so we figured out the best way to split those.
+
 
 ## Key decisions (if not already included in discussion summaries):
 
--   Variables like population health insurance coverage homeowner and others were abandoned.
--   We consider columns like SNAP rate, Median income Federal spending on students to be considerable since we already have similar variables.
--   Samuya and Ruixin work on data collection and sources. Alexander works on preparation. Freya works on, Yuhan works on limitations.
 
 ## Action items (if not already included in discussion summaries):
+-  Alex writes the basic introduction and why is it concerning.
+-  Samuya writes what factors should be considered.
+-  Freya writes transisions to the rest of the report including our objectives, variables and methodologies.
+-  Yuhan works on the references.
+-  Ruixin does proof reading
 
--   (Action item - to be changed by team)
--   (Action item - to be changed by team)
--   (Adjust number as needed by team)
 
-# 
+$\hrulefill$
+
+
+
